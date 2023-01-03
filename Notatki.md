@@ -73,6 +73,11 @@ obsolete now.
 * nazwy zmiennych, funkcji i komentarze po ang
 * przed funkcjami komentarze co ta funkcja robi
 * nazwy klas i structów z dużej litery
+* styl bracketsów:
+	...(...)
+	{
+		...
+	}
 
 # Dokumentacja
 
